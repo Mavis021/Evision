@@ -1,0 +1,6 @@
+*.apk
+*.utmp
+*Temp/
+*UserSettings/
+*Logs/
+*Library/
