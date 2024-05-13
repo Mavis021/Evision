@@ -13,12 +13,6 @@ Visual impairment hinders the independence of people, creating a barrier to enga
 - Smartphone camera integration for capturing surroundings
 - Auditory feedback in Nepali language
 
-## Flowcharts
-<div style="display: flex;">
-    <img src="flowcharts/tts.png" alt="Image 1" style="width: 50%;">
-    <img src="flowcharts/imagedetection.png" alt="Image 2" style="width: 50%;">
-</div>
-
 ## Outputs
 <img src="designs/prototype.png" alt="Image 1" style="width: 50%;">
 
@@ -26,6 +20,6 @@ Visual impairment hinders the independence of people, creating a barrier to enga
 
 - S. Khadka, R. G.C., P. Paudel, R. Shah, B. Joshi. (2023). [Nepali Text-to-Speech Synthesis using Tacotron2 for Melspectrogram Generation](https://sigul-2023.ilc.cnr.it/wp-content/uploads/2023/08/15_Paper-compressed.pdf).
 
-- S. Khadka, R. G.C., P. Paudel, R. Shah. (Year). [Nepali Text-to-Speech Synthesis using Tacotron2 for Melspectrogram Generation](https://gitlab.com/shrutiaudio/shrutiaudio).
+- [LLaVaVision](https://github.com/lxe/llavavision).
 
 - Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee. (2023). [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485).
