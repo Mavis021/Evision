@@ -19,6 +19,9 @@ Visual impairment hinders the independence of people, creating a barrier to enga
     <img src="flowcharts/imagedetection.png" alt="Image 2" style="width: 50%;">
 </div>
 
+## Outputs
+<img src="designs/prototype.png" alt="Image 1" style="width: 50%;">
+
 # References
 
 - S. Khadka, R. G.C., P. Paudel, R. Shah, B. Joshi. (2023). [Nepali Text-to-Speech Synthesis using Tacotron2 for Melspectrogram Generation](https://sigul-2023.ilc.cnr.it/wp-content/uploads/2023/08/15_Paper-compressed.pdf).
