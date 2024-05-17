@@ -1,4 +1,4 @@
-# Code of Conduct - DrawTect
+# Code of Conduct - Evision
 
 ## Our Pledge
 
